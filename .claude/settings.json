@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(& \"c:\\\\Users\\\\delosreyes.i\\\\Downloads\\\\Quant Claude Project\\\\Pair-Regression-Testing\\\\.venv\\\\Scripts\\\\jupyter.exe\" nbconvert --to notebook --execute --inplace \"c:\\\\Users\\\\delosreyes.i\\\\Downloads\\\\Quant Claude Project\\\\Pair-Regression-Testing\\\\pairs_trading\\\\notebooks\\\\step5_cointegration.ipynb\" --ExecutePreprocessor.kernel_name=pairs-trading --ExecutePreprocessor.timeout=180 2>&1)"
+    ]
+  }
+}
